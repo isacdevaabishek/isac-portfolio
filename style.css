@@ -4,13 +4,12 @@
     font-family: 'Lobster Two', cursive;
 }
 .header{
- height: 100%;
-margin: 0%;
-background-image: url(yellow.jpg);
-background-size: cover;
+    height: 100%;
+    margin: 0%;
+    background-image: url(yellow.jpg);
+    background-size: cover;
 }
 .header img{
-
     height: 400px;
     width: 400px;
     border-radius: 50%;
@@ -60,10 +59,10 @@ padding-top: 18%;
 }
 .hobbies{
     height: 100%;
-margin: 0%;
-background-image: url(yellow.jpg);
-background-size: cover;
-background-repeat: repeat;
+    margin: 0%;
+    background-image: url(yellow.jpg);
+    background-size: cover;
+    background-repeat: repeat;
 
 }
 .hob{
@@ -79,32 +78,36 @@ background-repeat: repeat;
     margin-right: 10px;
     padding-bottom: 10px;
 }
-
 .cover{
-
     width:100%;
     height: 100%;
-display: inline-flex;
-padding-top: 5%;
-padding-bottom: 6%;
+    display: inline-flex;
+    padding-top: 5%;
+    padding-bottom: 6%;
 }
 .box1 img {
     width: 100%;
     height: 90%;
     border-radius: 2%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+    }
+.box1 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box2 img {
     width: 80%;
     height:90%;
     border-radius: 2%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box2 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box3 img{
     width: 100%;
     height: 90%;
     border-radius: 2%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box3 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box1{
     font-size: 30px;
@@ -150,21 +153,27 @@ padding-bottom: 18%;
     border-radius: 2%;
     width: 100%;
     height: 120%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box4 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box5 img {
     width: 95%;
     height:120%;
     margin-left: 60px;
     border-radius: 2%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box5 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box6 img{
     width: 80%;
     height: 120%;
 margin-left: 60px;
 border-radius: 2%;
-box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box6 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box4 p{
     font-size: 30px;
@@ -176,8 +185,6 @@ box-shadow:10px 10px rgba(200,200,200,0.5)
     text-shadow: 2px 0 #fff;
     padding-left: 100px;
 }
-
-
 .box6 p{
     font-size: 30px;
     text-shadow: 2px 0 #fff;
@@ -199,15 +206,13 @@ background-repeat: repeat;
     font-family: 'Times New Roman', Times, serif;
 }
 .fvr h4{
-    
     margin-right: 10px;
     padding-bottom: 10px;
 }
 .cover3{
-
     width:100%;
     height: 100%;
-display: inline-flex;
+    display: inline-flex;
 
 }
 .box7 img {
@@ -215,28 +220,36 @@ display: inline-flex;
     width: 70%;
     height: 70%;
     margin-left: 150px;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box7 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box8 img {
     width: 60%;
     height:70%;
     margin-left: 60px;
     border-radius: 2%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box8 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box9 img{
     width: 60%;
     height: 70%;
     margin-left: 50px;
     border-radius: 2%;
-    box-shadow:10px 10px rgba(200,200,200,0.5)
+}
+.box9 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box10 img{
     width: 70%;
     height: 70%;
-margin-left: 140px;
-border-radius: 2%;
-box-shadow:10px 10px rgba(200,200,200,0.5)
+    margin-left: 140px;
+    border-radius: 2%;
+}
+.box10 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box7 p{
     font-size: 30px;
@@ -248,8 +261,6 @@ box-shadow:10px 10px rgba(200,200,200,0.5)
     text-shadow: 2px 0 #fff;
     padding-left: 100px;
 }
-
-
 .box9 p{
     font-size: 30px;
     text-shadow: 2px 0 #fff;
@@ -278,12 +289,17 @@ background-image: url(yellow.jpg);
     height: 40%;
     float: left;
 }
+.box11 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
+}
 .box12 img {
     width: 70px;
     height: 70px;
     border-radius: 40%;
     margin-bottom: 100px;
-    
+    }
+.box12 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .box13 img {
     width: 70px;
@@ -291,16 +307,25 @@ background-image: url(yellow.jpg);
     border-radius: 40%;
     margin-bottom: 100px;
 }
+.box13 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
+}
 .box14 img {
     width: 70px;
     height: 70px;
     border-radius: 30%;
     margin-bottom: 100px;
 }
+.box14 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
+}
 .box15 img {
     width: 70px;
     height: 70px;
     margin-bottom: 100px;
+}
+.box15 img:hover{
+    box-shadow:10px 10px rgba(200,200,200,0.5);
 }
 .cover4 p{
     float: right;
