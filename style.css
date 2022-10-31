@@ -289,9 +289,6 @@ background-image: url(yellow.jpg);
     height: 40%;
     float: left;
 }
-.box11 img:hover{
-    box-shadow:10px 10px rgba(200,200,200,0.5);
-}
 .box12 img {
     width: 70px;
     height: 70px;
